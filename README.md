@@ -3,7 +3,14 @@
  
  In this experiment, I built an 8-layer network, which consists of 5 convolutional layers and 3 linear layers. The method Batch normalization was adopted.
  
+ ![image](https://user-images.githubusercontent.com/79852857/214030879-d5137b79-78d8-47b5-8eec-6557290eaf13.png)
+ 
+ visual explanation
+ 
+ architecture of the network (without resnet):
+ 
 ![image](https://user-images.githubusercontent.com/79852857/204218659-60af6560-6dc8-4006-9268-2e5adda6c045.png)
+
  
 ![image](https://user-images.githubusercontent.com/79852857/204218769-51c8ba0c-2fd8-4d15-89bc-5a7efb3ecec3.png)
         
