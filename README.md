@@ -5,7 +5,7 @@
  
  ![image](https://user-images.githubusercontent.com/79852857/214030879-d5137b79-78d8-47b5-8eec-6557290eaf13.png)
  
- visual explanation
+ visual explanation(image from internet)
  
  architecture of the network (without resnet):
  
